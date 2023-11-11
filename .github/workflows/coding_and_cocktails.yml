@@ -1,6 +1,6 @@
 name: Coding and Cocktails workflow
 
-run-name: Make cocktails 
+run-name: Mix cocktails 
 
 on:
     push:
